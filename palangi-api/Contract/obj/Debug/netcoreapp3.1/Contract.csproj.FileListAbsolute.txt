@@ -1,0 +1,14 @@
+C:\Charisma\palangi-api\Contract\bin\Debug\netcoreapp3.1\Contract.deps.json
+C:\Charisma\palangi-api\Contract\bin\Debug\netcoreapp3.1\Contract.dll
+C:\Charisma\palangi-api\Contract\bin\Debug\netcoreapp3.1\Contract.pdb
+C:\Charisma\palangi-api\Contract\obj\Debug\netcoreapp3.1\Contract.csprojAssemblyReference.cache
+C:\Charisma\palangi-api\Contract\obj\Debug\netcoreapp3.1\Contract.AssemblyInfoInputs.cache
+C:\Charisma\palangi-api\Contract\obj\Debug\netcoreapp3.1\Contract.AssemblyInfo.cs
+C:\Charisma\palangi-api\Contract\obj\Debug\netcoreapp3.1\Contract.csproj.CoreCompileInputs.cache
+C:\Charisma\palangi-api\Contract\obj\Debug\netcoreapp3.1\Contract.dll
+C:\Charisma\palangi-api\Contract\obj\Debug\netcoreapp3.1\Contract.pdb
+C:\Charisma\palangi-api\Contract\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Charisma\palangi-api\Contract\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Charisma\palangi-api\Contract\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Charisma\palangi-api\Contract\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Charisma\palangi-api\Contract\obj\Debug\netcoreapp3.1\Contract.csproj.CopyComplete

@@ -1,0 +1,5 @@
+initialize infra
+	rabbitmq
+	sql server
+
+run command "docker-compose up"

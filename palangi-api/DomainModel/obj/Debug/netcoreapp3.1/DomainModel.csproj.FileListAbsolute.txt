@@ -1,0 +1,9 @@
+C:\Charisma\palangi-api\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\Charisma\palangi-api\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Charisma\palangi-api\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Charisma\palangi-api\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\Charisma\palangi-api\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\Charisma\palangi-api\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\Charisma\palangi-api\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\Charisma\palangi-api\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Charisma\palangi-api\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csprojAssemblyReference.cache

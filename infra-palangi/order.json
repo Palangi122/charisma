@@ -1,0 +1,28 @@
+{
+    "orderId": "1eba2a3a-97f7-4d16-b302-1c8f5499e583",
+    "orderItems": [
+        {
+            "orderitemid": "1eba2a3a-97f7-4d16-b302-1c8f5499e583",
+            "product": null,
+            "productId":"2c0e0a33-e6fd-4136-8725-089fbe8779e1",
+            "qty": 2,
+            "withMarkup": false
+        }
+    ],
+    "postType": null,
+    "postTypeId": null,
+    "discountNO": "",
+    "total": 0.0,
+    "discount": 0.0,
+    "totalMarkup": 0.0,
+    "totalOrder": 0.0,
+    "createDate": "2021-12-12",
+    "address": "null",
+    "customer": {
+        "customerId": "0f0c1a34-20dd-47e0-9d4e-862727b2efe6",
+        "firstName": "mahmoud",
+        "lastName": "palangi",
+        "addresses": ""
+    },
+    "customerId": "03647bbb-ea51-460a-8e97-2ee9aa75b714"
+}

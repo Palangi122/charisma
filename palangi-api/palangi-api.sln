@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palangi-api", "palangi-api\palangi-api.csproj", "{4E68FB88-D30B-4A2A-B643-1AD7B294AD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModel", "DomainModel\DomainModel.csproj", "{7AEB078A-072E-491D-8C86-1D26B5BB3427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract", "Contract\Contract.csproj", "{E621A232-35D3-420E-89C0-54AC33B366AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{33693A4A-457A-4F64-A5A5-2057DEAD1A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{3951AD02-1DFC-41FF-B04A-28089C0DD9D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order-api", "Order-api\Order-api.csproj", "{678744FA-BD75-400D-A4C9-FBB11A7468F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{C06A6382-4357-4A54-93D9-98EBA01F9BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E68FB88-D30B-4A2A-B643-1AD7B294AD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E68FB88-D30B-4A2A-B643-1AD7B294AD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E68FB88-D30B-4A2A-B643-1AD7B294AD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E68FB88-D30B-4A2A-B643-1AD7B294AD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEB078A-072E-491D-8C86-1D26B5BB3427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEB078A-072E-491D-8C86-1D26B5BB3427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEB078A-072E-491D-8C86-1D26B5BB3427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEB078A-072E-491D-8C86-1D26B5BB3427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E621A232-35D3-420E-89C0-54AC33B366AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E621A232-35D3-420E-89C0-54AC33B366AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E621A232-35D3-420E-89C0-54AC33B366AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E621A232-35D3-420E-89C0-54AC33B366AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33693A4A-457A-4F64-A5A5-2057DEAD1A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33693A4A-457A-4F64-A5A5-2057DEAD1A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33693A4A-457A-4F64-A5A5-2057DEAD1A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33693A4A-457A-4F64-A5A5-2057DEAD1A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3951AD02-1DFC-41FF-B04A-28089C0DD9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3951AD02-1DFC-41FF-B04A-28089C0DD9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3951AD02-1DFC-41FF-B04A-28089C0DD9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3951AD02-1DFC-41FF-B04A-28089C0DD9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678744FA-BD75-400D-A4C9-FBB11A7468F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678744FA-BD75-400D-A4C9-FBB11A7468F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678744FA-BD75-400D-A4C9-FBB11A7468F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678744FA-BD75-400D-A4C9-FBB11A7468F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C06A6382-4357-4A54-93D9-98EBA01F9BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06A6382-4357-4A54-93D9-98EBA01F9BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06A6382-4357-4A54-93D9-98EBA01F9BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06A6382-4357-4A54-93D9-98EBA01F9BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAE86D5A-4EC6-4A2D-9D92-2DEFF2E9EB68}
+	EndGlobalSection
+EndGlobal
